@@ -37,5 +37,6 @@ Currently improving my Javascript skills: ReactJS, React Native and some Backend
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahimshahriaradnan/)](https://www.linkedin.com/in/fahimshahriaradnan)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/fahimadnan5)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fahimshahriaradnan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/fahimshahriaradnan?trk=profile-badge">Md. Fahim Shahriar Adnan</a></div>
+              
 
-<!-- **[Kabir's-portfolio](http://kabirs-portfolio.web.app/)** -->
